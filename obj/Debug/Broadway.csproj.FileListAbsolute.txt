@@ -1,0 +1,9 @@
+H:\practice\cao\Broadway\bin\Debug\Broadway.exe.config
+H:\practice\cao\Broadway\bin\Debug\Broadway.exe
+H:\practice\cao\Broadway\bin\Debug\Broadway.pdb
+H:\practice\cao\Broadway\obj\Debug\Broadway.csprojResolveAssemblyReference.cache
+H:\practice\cao\Broadway\obj\Debug\Broadway.Form1.resources
+H:\practice\cao\Broadway\obj\Debug\Broadway.Properties.Resources.resources
+H:\practice\cao\Broadway\obj\Debug\Broadway.csproj.GenerateResource.Cache
+H:\practice\cao\Broadway\obj\Debug\Broadway.exe
+H:\practice\cao\Broadway\obj\Debug\Broadway.pdb
